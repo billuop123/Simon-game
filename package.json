@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start":"parcel index.html",
+    "build": "parcel build final/index.html --dist-dir ./dist"
+  },
+  "dependencies": {
+    "bootstrap-icons": "^1.11.3",
+    "parcel": "^2.12.0"
+  }
+}
